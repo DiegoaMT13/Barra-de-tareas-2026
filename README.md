@@ -150,6 +150,7 @@ El botón "Salir" cierra completamente la barra y todas las ventanas que tenga a
 <img width="230" height="71" alt="salir" src="https://github.com/user-attachments/assets/563449bb-7ca7-4c93-ba80-8d156ca95192" />
 
 ---
+Link de descaras: https://github.com/DiegoaMT13/Barra-de-tareas-2026/releases/tag/v01 hay 2 opciones sin ejecutable y con ejecutable exe firmado  
 
 ## Licencia
 
