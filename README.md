@@ -4,7 +4,7 @@ Barra flotante de accesos rápidos para Windows: agrupa tus aplicaciones, archiv
 
 ![Barra principal]
 <img width="78" height="74" alt="icono barra" src="https://github.com/user-attachments/assets/36640c6d-c73d-4d33-b179-3539cd953535" />
-
+Link de descaras: https://github.com/DiegoaMT13/Barra-de-tareas-2026/releases/tag/v01 hay 2 opciones sin ejecutable y con ejecutable exe firmado  
 
 ---
 
