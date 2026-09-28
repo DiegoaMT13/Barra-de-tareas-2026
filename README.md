@@ -43,9 +43,12 @@ Al hacer clic en el icono de la aplicación, se inicia la barra. Puede aparecer 
 ## 🖱️ asistente "Damto"
 <img width="1191" height="1321" alt="FotoR (1)" src="https://github.com/user-attachments/assets/bc2c30b1-a2f5-4ba5-8c01-75df68be6702" />
 
+se puede cambiar la imagen del asistente 
+<img width="273" height="68" alt="asis" src="https://github.com/user-attachments/assets/d73cc8a9-1522-4b44-94c9-8e6ac7057c83" />
 
 el asistente flota, es un buscador y ejecutor de archivos carpetas url etc y funciona con la barra oculta puedes activar todo lo de la barra con el asistente no necesitas verla barra la dejas oculta solo escribe o por comando de voz usar micrófono también funciona 
 
+<img width="672" height="481" alt="asis2" src="https://github.com/user-attachments/assets/9b9c1560-f4ef-4509-8935-7dd71b9c1b75" />
 
 
 ---
@@ -54,7 +57,7 @@ el asistente flota, es un buscador y ejecutor de archivos carpetas url etc y fun
 
 Desde el menú de la barra (los tres puntos) accedés a:
 
-![Menú de opciones]()
+![Menú de opciones]
 <img width="705" height="78" alt="menuT" src="https://github.com/user-attachments/assets/9e482148-4606-4989-9460-b5627e1bb696" />
 
 
@@ -103,7 +106,7 @@ Cada "cara" es una agrupación independiente de accesos: podrás
 - **Cambiar de cara**: hacé clic sobre el punto correspondiente.
 - **Renombrar una cara**: doble clic sobre el nombre para ponerle el que quieras (por ejemplo, el nombre de un cliente).
 
-![Renombrar cara](assets/07-renombrar-cara.png)
+![Renombrar cara]
 <img width="306" height="237" alt="caras2" src="https://github.com/user-attachments/assets/86837fed-0729-4eed-94a6-3ba3a6c39aa7" />
 
 
@@ -117,14 +120,14 @@ Cada "cara" es una agrupación independiente de accesos: podrás
 
 | Cara "Libros" | Cara "Comics" |
 |---|---|
-| ![Cara Libros]() | ![Cara Comics]() |
+
 <img width="689" height="347" alt="caras1" src="https://github.com/user-attachments/assets/6b3eda05-3781-4434-aeac-70104181328a" />
 
 En la parte central de cada cara podés agregar todos los `.exe` que quieras (tuyos o de Windows: Excel, Paint, etc.), además de archivos, carpetas y URLs. Es ideal para agrupar todo lo relacionado a un proyecto o cliente en un solo lugar.
 
 **Botón para agregar elementos:** te deja elegir entre Aplicación (`.exe`), Carpeta, Archivo o Página web (URL).
 
-![Agregar elemento]()
+![Agregar elemento]
 <img width="274" height="208" alt="boton+" src="https://github.com/user-attachments/assets/54ea3234-0cb9-4a7f-8fae-6ae9151dea4a" />
 
 
