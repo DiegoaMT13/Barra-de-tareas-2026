@@ -10,10 +10,7 @@ Link de descaras: https://github.com/DiegoaMT13/Barra-de-tareas-2026/releases/ta
 
 ## 🎥 Video demostrativo
 
-> _(Pendiente de agregar)_ Reemplazá este bloque por el video una vez lo subas.
->
-> - Si lo subís a YouTube: `[![Ver video](https://img.youtube.com/vi/TU_ID_DE_VIDEO/0.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)`
-> - Si lo subís como archivo dentro del repo (por ejemplo `assets/demo.mp4`), GitHub lo reproduce solo con: `https://github.com/usuario/repositorio/assets/demo.mp4` pegado en una línea del README (no uses la etiqueta `<video>`, GitHub no la renderiza en el README).
+> - Video en YouTube: (https://www.youtube.com/watch?v=TU_ID_DE_VIDEO](https://youtu.be/RqOG2qwSyn4?si=Xtcv8f_W_gU8pwuI)
 
 ---
 
@@ -46,7 +43,7 @@ Al hacer clic en el icono de la aplicación, se inicia la barra. Puede aparecer 
 se puede cambiar la imagen del asistente 
 <img width="273" height="68" alt="asis" src="https://github.com/user-attachments/assets/d73cc8a9-1522-4b44-94c9-8e6ac7057c83" />
 
-el asistente flota, es un buscador y ejecutor de archivos carpetas url etc y funciona con la barra oculta puedes activar todo lo de la barra con el asistente no necesitas verla barra la dejas oculta solo escribe o por comando de voz usar micrófono también funciona 
+el asistente flota, es un buscador y ejecutor de archivos carpetas url etc y funciona con la barra oculta puedes activar todo lo de la barra con el asistente no necesitas verla barra la dejas oculta solo escribe o por comando de voz usar micrófono también funciona para comandos ejecutar usar ">" ejemplo: >msinfo32
 
 <img width="672" height="481" alt="asis2" src="https://github.com/user-attachments/assets/9b9c1560-f4ef-4509-8935-7dd71b9c1b75" />
 
