@@ -10,7 +10,7 @@ Link de descaras: https://github.com/DiegoaMT13/Barra-de-tareas-2026/releases/ta
 
 ## 🎥 Video demostrativo
 
-> - Video en YouTube: (https://www.youtube.com/watch?v=TU_ID_DE_VIDEO](https://youtu.be/RqOG2qwSyn4?si=Xtcv8f_W_gU8pwuI)
+> - Video en YouTube: (https://youtu.be/RqOG2qwSyn4?si=khTd6dTmPkBXbXxy)
 
 ---
 
