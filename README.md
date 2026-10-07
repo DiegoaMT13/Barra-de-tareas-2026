@@ -29,9 +29,9 @@ Antes de instalar o ejecutar la barra, asegurate de tener:
 
 Al hacer clic en el icono de la aplicación, se inicia la barra. Puede aparecer abierta o cerrada según cómo haya quedado la última vez.
 
-**Atajo de teclado:** con `Tab` + `Z` se oculta o se muestra la barra en cualquier momento.
+**Atajo de teclado:** con `f` + `e` se oculta o se muestra la barra en cualquier momento.
 
-![Atajo Tab + Z]()
+![Atajo f + e]()
 
 <img width="267" height="284" alt="teclado" src="https://github.com/user-attachments/assets/dbf879bc-15d3-4e60-a195-1661386fe1ec" />
 <img width="337" height="404" alt="barra1" src="https://github.com/user-attachments/assets/1f9eab9f-4f07-4bc6-8893-22692560f291" />
