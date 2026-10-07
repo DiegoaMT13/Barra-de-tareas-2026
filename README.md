@@ -28,6 +28,19 @@ Antes de instalar o ejecutar la barra, asegurate de tener:
 
 ## 🚀 Inicio
 
+
+Al descargar y extraer la carpeta dentro de la carpeta dist se encuentra el ejecutable
+<img width="229" height="318" alt="contenedor ejecutable" src="https://github.com/user-attachments/assets/ad12b4fb-a6df-4590-a2e2-d1170002b44b" />
+<img width="157" height="78" alt="ejecutable" src="https://github.com/user-attachments/assets/e612608b-877b-4838-88a3-fa13eea16eb2" />
+lo puedes arrastrar a la barra de tareas y listo si prefieres esta el código revísalo y crea tu propio ejecutable   
+
+
+
+
+
+
+
+
 Al hacer clic en el icono de la aplicación, se inicia la barra. Puede aparecer abierta o cerrada según cómo haya quedado la última vez.
 
 **Atajo de teclado:** con `f` + `e` se oculta o se muestra la barra en cualquier momento.
